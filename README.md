@@ -16,7 +16,7 @@ This project implements a Traffic Light Controller using Verilog HDL. The design
 - RTL Simulation
 
 ## Project Structure
-Traffic_Light_Controller/
+Traffic_Light_Controller
 ├── traffic_light_controller.v
 ├── traffic_light_tb.v
 ├── README.md
